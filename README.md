@@ -356,12 +356,10 @@ disturl = https://npm.taobao.org/dist
 
 ```ini
 # GitHub Start =================================================================
-52.74.223.119 github.com
+13.229.188.59 github.com
 192.30.255.116 api.github.com
-185.199.108.154 docs.github.com
-52.5.36.149 graphql.github.com
-140.82.112.25 live.github.com
-8.7.198.45 gist.github.com
+140.82.113.4 live.github.com
+140.82.113.4 gist.github.com
 
 192.0.66.2 github.blog
 
@@ -372,12 +370,13 @@ disturl = https://npm.taobao.org/dist
 
 140.82.114.22 central.github.com
 
+199.232.96.133 raw.github.com
+
 199.232.96.133 raw.githubusercontent.com
 199.232.96.133 user-images.githubusercontent.com
 199.232.96.133 desktop.githubusercontent.com
 199.232.96.133 camo.githubusercontent.com
 
-199.232.96.133 media.githubusercontent.com
 199.232.96.133 avatars.githubusercontent.com
 199.232.96.133 avatars0.githubusercontent.com
 199.232.96.133 avatars1.githubusercontent.com
